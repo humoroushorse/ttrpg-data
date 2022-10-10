@@ -1,0 +1,67 @@
+[
+  {
+    "id": 0,
+    "source_id": 0,
+    "name": "barbarian"
+  },
+  {
+    "id": 1,
+    "source_id": 0,
+    "name": "bard"
+  },
+  {
+    "id": 2,
+    "source_id": 0,
+    "name": "cleric"
+  },
+  {
+    "id": 3,
+    "source_id": 0,
+    "name": "druid"
+  },
+  {
+    "id": 4,
+    "source_id": 0,
+    "name": "fighter"
+  },
+  {
+    "id": 5,
+    "source_id": 0,
+    "name": "monk"
+  },
+  {
+    "id": 6,
+    "source_id": 0,
+    "name": "paladin"
+  },
+  {
+    "id": 7,
+    "source_id": 0,
+    "name": "ranger"
+  },
+  {
+    "id": 8,
+    "source_id": 0,
+    "name": "rogue"
+  },
+  {
+    "id": 9,
+    "source_id": 0,
+    "name": "sorcerer"
+  },
+  {
+    "id": 10,
+    "source_id": 0,
+    "name": "warlock"
+  },
+  {
+    "id": 11,
+    "source_id": 0,
+    "name": "wizard"
+  },
+  {
+    "id": 12,
+    "source_id": 2,
+    "name": "artificer"
+  }
+]
