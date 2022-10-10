@@ -1,0 +1,265 @@
+[
+  {
+    "source_id": 2,
+    "source_name": "tashas",
+    "class_id": 12,
+    "class_name": "artificer",
+    "spells": {
+      "0": [
+        "booming blade",
+        "green-flame blade",
+        "lightning lure",
+        "sword burst"
+      ],
+      "1": [
+        "tasha's caustic brew"
+      ],
+      "2": [],
+      "3": [
+        "intellect fortress"
+      ],
+      "4": [
+        "summon construct"
+      ],
+      "5": [],
+      "6": [],
+      "7": [],
+      "8": [],
+      "9": []
+    }
+  },
+  {
+    "source_id": 2,
+    "source_name": "tashas",
+    "class_id": 1,
+    "class_name": "bard",
+    "spells": {
+      "0": [],
+      "1": [],
+      "2": [],
+      "3": [
+        "intellect fortress"
+      ],
+      "4": [],
+      "5": [],
+      "6": [],
+      "7": [
+        "dream of the blue veil"
+      ],
+      "8": [],
+      "9": []
+    }
+  },
+  {
+    "source_id": 2,
+    "source_name": "tashas",
+    "class_id": 2,
+    "class_name": "cleric",
+    "spells": {
+      "0": [],
+      "1": [],
+      "2": [],
+      "3": [
+        "spirit shroud"
+      ],
+      "4": [],
+      "5": [
+        "summon celestial"
+      ],
+      "6": [],
+      "7": [],
+      "8": [],
+      "9": []
+    }
+  },
+  {
+    "source_id": 2,
+    "source_name": "tashas",
+    "class_id": 3,
+    "class_name": "druid",
+    "spells": {
+      "0": [],
+      "1": [],
+      "2": [
+        "summon beast"
+      ],
+      "3": [
+        "summon fey"
+      ],
+      "4": [
+        "summon elemental"
+      ],
+      "5": [],
+      "6": [],
+      "7": [],
+      "8": [],
+      "9": []
+    }
+  },
+  {
+    "source_id": 2,
+    "source_name": "tashas",
+    "class_id": 6,
+    "class_name": "paladin",
+    "spells": {
+      "0": [],
+      "1": [],
+      "2": [],
+      "3": [
+        "spirit shroud"
+      ],
+      "4": [],
+      "5": [
+        "summon celestial"
+      ],
+      "6": [],
+      "7": [],
+      "8": [],
+      "9": []
+    }
+  },
+  {
+    "source_id": 2,
+    "source_name": "tashas",
+    "class_id": 7,
+    "class_name": "ranger",
+    "spells": {
+      "0": [],
+      "1": [],
+      "2": [
+        "summon beast"
+      ],
+      "3": [
+        "summon fey"
+      ],
+      "4": [
+        "summon elemental"
+      ],
+      "5": [],
+      "6": [],
+      "7": [],
+      "8": [],
+      "9": []
+    }
+  },
+  {
+    "source_id": 2,
+    "source_name": "tashas",
+    "class_id": 9,
+    "class_name": "sorcerer",
+    "spells": {
+      "0": [
+        "booming blade",
+        "green-flame blade",
+        "lightning lure",
+        "mind sliver",
+        "sword burst"
+      ],
+      "1": [
+        "tasha's caustic brew"
+      ],
+      "2": [
+        "tasha's mind whip"
+      ],
+      "3": [
+        "intellect fortress"
+      ],
+      "4": [],
+      "5": [],
+      "6": [
+        "tasha's otherworldly guise"
+      ],
+      "7": [
+        "dream of the blue veil"
+      ],
+      "8": [],
+      "9": [
+        "blade of disaster"
+      ]
+    }
+  },
+  {
+    "source_id": 2,
+    "source_name": "tashas",
+    "class_id": 10,
+    "class_name": "warlock",
+    "spells": {
+      "0": [
+        "booming blade",
+        "green-flame blade",
+        "lightning lure",
+        "mind sliver",
+        "sword burst"
+      ],
+      "1": [],
+      "2": [],
+      "3": [
+        "intellect fortress",
+        "spirit shroud",
+        "summon fey",
+        "summon shadowspawn",
+        "summon undead"
+      ],
+      "4": [
+        "summon aberration"
+      ],
+      "5": [],
+      "6": [
+        "summon fiend",
+        "tasha's otherworldly guise"
+      ],
+      "7": [
+        "dream of the blue veil"
+      ],
+      "8": [],
+      "9": [
+        "blade of disaster"
+      ]
+    }
+  },
+  {
+    "source_id": 2,
+    "source_name": "tashas",
+    "class_id": 11,
+    "class_name": "wizard",
+    "spells": {
+      "0": [
+        "booming blade",
+        "green-flame blade",
+        "lightning lure",
+        "mind sliver",
+        "sword burst"
+      ],
+      "1": [
+        "tasha's caustic brew"
+      ],
+      "2": [
+        "tasha's mind whip"
+      ],
+      "3": [
+        "intellect fortress",
+        "spirit shroud",
+        "summon fey",
+        "summon shadowspawn",
+        "summon undead"
+      ],
+      "4": [
+        "summon aberration",
+        "summon construct",
+        "summon elemental"
+      ],
+      "5": [],
+      "6": [
+        "summon fiend",
+        "tasha's otherworldly guise"
+      ],
+      "7": [
+        "dream of the blue veil"
+      ],
+      "8": [],
+      "9": [
+        "blade of disaster"
+      ]
+    }
+  }
+]

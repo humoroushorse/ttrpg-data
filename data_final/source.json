@@ -1,0 +1,17 @@
+[
+  {
+    "name": "player's handbook",
+    "shortName": "phb",
+    "id": 0
+  },
+  {
+    "name": "xanathar's guide to everything",
+    "shortName": "xanathars",
+    "id": 1
+  },
+  {
+    "name": "tasha's cauldron of everything",
+    "shortName": "tashas",
+    "id": 2
+  }
+]
