@@ -3,8 +3,8 @@
 ## staging
 
 Scripts
-* `python3 manual_script.py` helper for manual
-* `python3 manual_script.py` helper for raw -> parsed
+* `python3 spell_script.py` helper for manual
+* `python3 spell_parse.py` helper for raw -> parsed
 
 ### data_raw
 Data sources
