@@ -13,5 +13,10 @@
     "name": "tasha's cauldron of everything",
     "short_name": "tashas",
     "id": 2
+  },
+  {
+    "name": "monster manual",
+    "short_name": "monster_manual",
+    "id": 3
   }
 ]

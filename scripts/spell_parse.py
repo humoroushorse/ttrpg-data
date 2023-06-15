@@ -8,7 +8,7 @@ file = 'spells_tashas'
 with open(f"data_raw/{file}.json", "r") as input:
   as_json = json.load(input)
   
-  as_list = [v for _, v in as_json.items()]
+  as_list = [json.loads(v) for _, v in as_json.items()]
 
   # IF JSON STRING
   first_element = as_list[0]
